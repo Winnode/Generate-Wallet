@@ -10,9 +10,9 @@ Generate wallet Solana, EVM and Starknet
 - [License](#license)
 
 ## Installation
+manual Install 
 - open cmd 
-- cd generate-wallet
-
+- cd generate-wallet  
 - nmp install bip39
 - nmp install @solana/web3.js
 - nmp install eth-lib
@@ -20,6 +20,9 @@ Generate wallet Solana, EVM and Starknet
 - nmp install xlsx
 - nmp install ethereum-mnemonic-privatekey-utils
 - nmp install ethers
+
+auto Install 
+install.bat
 
 ## Usage
 
