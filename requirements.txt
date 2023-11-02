@@ -1,0 +1,7 @@
+bip39
+@solana/web3.js
+eth-lib
+readline-sync
+xlsx
+ethereum-mnemonic-privatekey-utils
+ethers
